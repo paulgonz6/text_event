@@ -1,0 +1,16 @@
+// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.home-page-table {
+  height: 100vh;
+  width: 100%;
+  display: table;
+}
+
+
+.home-page-content {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
